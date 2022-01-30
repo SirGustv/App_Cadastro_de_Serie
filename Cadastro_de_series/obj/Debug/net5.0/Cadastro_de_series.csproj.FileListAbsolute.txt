@@ -1,0 +1,16 @@
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\bin\Debug\net5.0\Cadastro_de_series.exe
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\bin\Debug\net5.0\Cadastro_de_series.deps.json
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\bin\Debug\net5.0\Cadastro_de_series.runtimeconfig.json
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\bin\Debug\net5.0\Cadastro_de_series.runtimeconfig.dev.json
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\bin\Debug\net5.0\Cadastro_de_series.dll
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\bin\Debug\net5.0\ref\Cadastro_de_series.dll
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\bin\Debug\net5.0\Cadastro_de_series.pdb
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\obj\Debug\net5.0\Cadastro_de_series.csproj.AssemblyReference.cache
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\obj\Debug\net5.0\Cadastro_de_series.GeneratedMSBuildEditorConfig.editorconfig
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\obj\Debug\net5.0\Cadastro_de_series.AssemblyInfoInputs.cache
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\obj\Debug\net5.0\Cadastro_de_series.AssemblyInfo.cs
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\obj\Debug\net5.0\Cadastro_de_series.csproj.CoreCompileInputs.cache
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\obj\Debug\net5.0\Cadastro_de_series.dll
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\obj\Debug\net5.0\ref\Cadastro_de_series.dll
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\obj\Debug\net5.0\Cadastro_de_series.pdb
+D:\Worksapce\APP_Cadastro_de_série\Cadastro_de_series\obj\Debug\net5.0\Cadastro_de_series.genruntimeconfig.cache
